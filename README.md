@@ -14,7 +14,7 @@ customer_id, date, payment
 
 C0124 24-04-2018 441.74
 C1335 30-12-2018 958.44
-0124 07-10-2018 39.36
+C0124 07-10-2018 39.36
 C1335 01-01-2019 635.55
 C9853 09-10-2019 281.69
 C0124 12-07-2020 897.66
@@ -96,7 +96,7 @@ IMPORTANT:
 Example: 
 
 ```
-$ python3 main.py /user/process_distribute_store/original_payments.txt/ /user/desktop/
+$ python3 main.py /user/process_distribute_store/original_payments.txt /user/desktop
 ```
 
 ## Output program
